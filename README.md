@@ -49,12 +49,6 @@ O protótipo foi programado para responder de forma imediata aos comandos dos op
 
 ## 👥 Autores
 
-* **Disciplina:** Lógica de Programação / Internet das Coisas (IoT)
-* **Professores:** [Nome do Professor]
-* **Equipe (Alunos):**
-  * Seu Nome (Nº XX) - *Dev & Hardware*
-  * Nome do Colega (Nº XX) - *Dev & Hardware*
-* **Data:** 25/05/2026
 
 #### Projeto desenvolvido no SENAI.
 
